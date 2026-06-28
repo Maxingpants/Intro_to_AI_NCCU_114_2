@@ -443,8 +443,8 @@ Artificial Intelligence Final Project
 
 **Team Members**
 
-* Edward Ladham
-* *Student 2*
+* Edward Ladham 113ZU1031
+* 柯立宸 112104039
 * *Student 3*
 
 ---
