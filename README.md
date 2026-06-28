@@ -445,7 +445,7 @@ Artificial Intelligence Final Project
 
 * Edward Ladham 113ZU1031
 * 柯立宸 112104039
-* *Student 3*
+* Kelly Wu 114305170
 
 ---
 
